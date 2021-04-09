@@ -1,0 +1,26 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/demos/text-fields/FormattedInputs.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "cleave.js": "1.4.0",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-number-format": "latest",
+    "react-text-mask": "latest",
+    "text-mask-addons": "3.7.2"
+  },
+  "keywords": [],
+  "name": "mui-textfield-formatters",
+  "version": "0.0.29",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
